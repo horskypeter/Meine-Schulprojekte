@@ -1,5 +1,0 @@
-"# M“j prvì projekt" 
-"Toto je novy riadok" 
-"Skuska podla seba" 
-"Idem podla pamaty" 
-"neaky text" 
