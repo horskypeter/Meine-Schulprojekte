@@ -2,3 +2,4 @@
 "Toto je novy riadok" 
 "Skuska podla seba" 
 "Idem podla pamaty" 
+"neaky text" 
