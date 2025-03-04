@@ -36,4 +36,4 @@
 
 😃 Willkommen auf meinem Profil! Zögere nicht, mich zu kontaktieren.
 
-![Profilverkehr](https://komarev.com/ghpvc/?username=horskypeter&color=black)
+![Profilverkehr](https://komarev.com/ghpvc/?username=horskypeter&color=blue)
