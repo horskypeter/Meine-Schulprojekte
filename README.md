@@ -30,8 +30,10 @@
 
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=horskypeter&layout=compact&theme=radical)
 
-![Profilverkehr](https://komarev.com/ghpvc/?username=horskypeter&color=blue)
+
 
 ---
 
 😃 Willkommen auf meinem Profil! Zögere nicht, mich zu kontaktieren.
+
+![Profilverkehr](https://komarev.com/ghpvc/?username=horskypeter&color=black)
