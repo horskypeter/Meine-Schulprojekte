@@ -15,8 +15,9 @@
 ### 📊 GitHub štatistiky
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=horskypeter&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=horskypeter&layout=compact&theme=radical)
-https://github-readme-stats.vercel.app/api/top-langs/?username=horskypeter&layout=compact&theme=radical
+![GitHub Streak](https://streak-stats.demolab.com/?user=horskypeter&theme=radical)
+![Profilová návštevnosť](https://komarev.com/ghpvc/?username=horskypeter&color=blue)
+
 
 ---
 
