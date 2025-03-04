@@ -16,8 +16,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=horskypeter&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=horskypeter&layout=compact&theme=radical)
-https://github-readme-stats.vercel.app/api?username=horskypeter&show_icons=true&theme=radical
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TVOJE-POUZIVATELSKE-MENO&show_icons=true&theme=radical)
+
 
 ---
 
