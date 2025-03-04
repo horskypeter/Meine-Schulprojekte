@@ -1,0 +1,157 @@
+body{
+	padding:0;
+	margin:0;
+	font-family:Book Antiqua,Arial, Verdana;
+}
+#prva{
+	width:960px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#biela{
+	height:66px;
+	background-color:rgb(255,255,255);
+	text-align:center;
+	}
+#logobg{
+	margin-top: 20px;
+	height:400px;
+	background-image:url("obrazky/pozadie.png")
+}
+
+#logo img{
+	margin-left:32%;
+	margin-top:320px;
+}
+nav{
+	height:70px;
+	font-size:24px;
+	background-color:rgb(250,188,250);
+	color:#fff;
+	text-align:center;
+	padding-top:5px;
+}
+nav ul{
+	display:inline;
+}
+nav ul li{
+	display:inline;
+	margin-left:30px;
+}
+nav ul li a {
+	color:#333333;
+	text-decoration:none;
+}
+nav ul ul li{
+	font-size:20px;
+	margin-left:30px;
+}
+nav ul ul li a{
+	color:rgb(147,147,147);
+	text-decoration:none;
+} 
+nav ul li a:hover{
+	color:rgb(250,0,0);
+}
+nav ul ul li a:hover{
+	color:rgb(250,0,0);
+}
+#text{
+	padding:0px 20px 0px 20px;
+}
+#text a{
+	color:#333333;
+	text-decoration:none;
+}
+#text h2{
+	font-size:26px;
+	font-weight:normal;
+}
+
+#okna{
+	text-align:left;
+	padding-top:0px;
+	padding-bottom:0px;
+}
+.predaj{
+	width:305px;
+	padding:5px;
+	float:left;
+}
+.popis{
+	width:455px;
+	padding:5px;
+	float:left;
+}
+.predaj img {
+  width: 100%;
+  height: auto;
+}
+.predaj h3{
+	text-align:center;
+	font-weight:normal;
+	margin-top:0px;
+	margin-bottom:5px;
+}
+.predaj p{
+	text-align:center;
+	font-size:18px;
+	margin-top:0px;
+}
+#veduca{
+	font-size:18px;
+}
+#kontakt{
+	padding-top:0px;
+	text-align:right;
+	font-size:18px;
+}
+#input input[type=button], #input input[type=reset]{
+	font-family:Book Antiqua;
+	background-color:rgb(216,224,223);
+	border-radius: 10px;
+	border: none;
+	color: black;
+	padding: 16px 32px;
+	text-decoration: none;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+#input input[type=submit]{
+	font-family:Book Antiqua;
+	background-color:rgb(250,188,250);
+	border-radius: 10px;
+	border: none;
+	color: black;
+	padding: 16px 32px;
+	text-decoration: none;
+	margin: 4px 2px;
+	cursor: pointer;
+}  
+#input button{
+	font-family:Book Antiqua;
+	background-color:rgb(255,255,255);
+	border: 2px solid red;
+	border-radius: 10px;
+	color: black;
+	padding: 16px 32px;
+	text-decoration: none;
+	margin: 4px 2px;
+	cursor: pointer;
+	width:100px;
+}
+#prihlasenie{
+	font-size:18px;
+}
+.prihlasenie{
+	margin-top:25px;
+	float:left;
+}
+.moznosti{
+	width:100px;
+	float:left;
+}
+.kontaktmoznosti{
+	width:300px;
+	float:left;
+}

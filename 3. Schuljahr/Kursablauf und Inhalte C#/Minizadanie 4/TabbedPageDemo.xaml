@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Minizadanie_4_2.TabbedPageDemo"
+             Title="TabbedPageDemo"
+             BarBackgroundColor="Gray"
+            BarTextColor="Black"
+            SelectedTabColor="AliceBlue"
+            UnselectedTabColor="IndianRed">
+
+    <ContentPage Title="Programovanie GUI">
+        <StackLayout>
+            <TableView Intent="Form">
+                <TableRoot>
+                    <TableSection Title="Predmet">
+                        <TextCell Text="Nazov" Detail="Programovanie GUI" />
+                        <TextCell Text="Opis" Detail="Ucenie sa ako programovat v C# a ako vytvorit mobilnu aplikaciu" />
+                    </TableSection>
+                    <TableSection Title="Temy">
+                        <TextCell Text="1. Human-computer interface" />
+                        <TextCell Text="2. Uvod do programovania GUI" />
+                        <TextCell Text="3. Modely a styly interakcie" />
+                        <TextCell Text="4. Prehlad navrhu GUI pre mobilne zariadenia" />
+                    </TableSection>
+                </TableRoot>
+            </TableView>
+        <Image Source="co.png" 
+               HeightRequest="100"
+               HorizontalOptions="Center"/>
+        </StackLayout>
+    </ContentPage>
+
+    <ContentPage Title="Anglicky jazyk 4">
+        <StackLayout>
+            <TableView Intent="Form">
+            <TableRoot>
+                <TableSection Title="Predmet">
+                    <TextCell Text="Nazov" Detail="Anglicky jazyk 4" />
+                    <TextCell Text="Opis" Detail="Samostatna praca s odbornym IT textom Porozumenie odbornemu vykladu - prednaske v cudzom jazyku" />
+                </TableSection>
+                <TableSection Title="Temy">
+                    <TextCell Text="1. Komunikacne systemy" />
+                    <TextCell Text="2. Mobilne telefony" />
+                    <TextCell Text="3. Softverove inzinierstvo" />
+                    <TextCell Text="4. Pocitacova kriminalita" />
+                    <TextCell Text="5. Buducnost IT" />
+                </TableSection>
+            </TableRoot>
+        </TableView>
+        <Image Source="aj.png" 
+               HeightRequest="100"
+               HorizontalOptions="Center"/>
+        </StackLayout>
+    </ContentPage>
+    
+    <ContentPage Title="Modelovanie a simulacie">
+        <StackLayout>
+        <TableView Intent="Form">
+            <TableRoot>
+                <TableSection Title="Predmet">
+                    <TextCell Text="Nazov" Detail="Modelovanie a simulacie" />
+                    <TextCell Text="Opis" Detail="Cielom tohto vyucovacieho predmetu je studium a prakticke experimentovanie s vybranymi metodami a algoritmami pre modelovanie a simulaciu" />
+                </TableSection>
+                <TableSection Title="Temy">
+                    <TextCell Text="1. Modelovanie zalozene na grafoch" />
+                    <TextCell Text="2. Modelovania zalozene na interaktivnych agentoch" />
+                    <TextCell Text="3. Modelovania zalozene na vypocte" />
+                    <TextCell Text="4. Algoritmy pre hladanie a optimalizaciu" />
+                 </TableSection>
+            </TableRoot>
+        </TableView>
+        <Image Source="mas.png" 
+               HeightRequest="100"
+               HorizontalOptions="Center"/>
+        </StackLayout>
+    </ContentPage>
+    
+    <ContentPage Title="Podnikove informacne systemy">
+        <StackLayout>
+        <TableView Intent="Form">
+            <TableRoot>
+                <TableSection Title="Predmet">
+                    <TextCell Text="Nazov" Detail="Podnikove informacne systemy" />
+                    <TextCell Text="Opis" Detail="Cielom predmetu je poskytnut uceleny prehlad sucasnych podnikovych informacnych systemov s dorazom na ich prepojenie na hlavne a podporne podnikove procesy" />
+                </TableSection>
+                <TableSection Title="Temy">
+                    <TextCell Text="1. Celopodnikove informacne systemy" />
+                    <TextCell Text="2. Riadenie vztahov so zakaznikom" />
+                    <TextCell Text="3. Elektronicke podnikanie" />
+                    <TextCell Text="4. Manazment zivotneho cyklu vyrobku" />
+                    <TextCell Text="5. Hodnotenie prinosov podnikovych IS" />
+                </TableSection>
+            </TableRoot>
+        </TableView>
+        <Image Source="pis.png"                
+               HeightRequest="100"
+               HorizontalOptions="Center"/>
+        </StackLayout>
+    </ContentPage>
+</TabbedPage>

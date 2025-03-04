@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FlyoutPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Minizadanie_4_2.FlyoutPageDemo"
+             Title="FlyoutPageDemo">
+    <!--FlyoutLayoutBehavior="Popover" pozri krok 42 nastavovanie spravania-->
+    
+    
+        <FlyoutPage.Flyout>
+            <ContentPage Title="My App">
+                <Label Text="Hello from flyout!"
+                    HorizontalTextAlignment="Center"
+                    VerticalTextAlignment="Center" />
+            </ContentPage>
+        </FlyoutPage.Flyout>
+    
+        <FlyoutPage.Detail>
+            <ContentPage>
+                <Label Text="Hello from detail!"
+                     HorizontalTextAlignment="Center"
+                     VerticalTextAlignment="Center" />
+            </ContentPage>
+        </FlyoutPage.Detail>
+</FlyoutPage>

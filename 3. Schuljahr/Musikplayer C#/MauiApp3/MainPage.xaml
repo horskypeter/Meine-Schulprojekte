@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="MauiApp3.MainPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="10"
+            Padding="30,0"
+            HorizontalOptions="Center" >
+          
+            <toolkit:MediaElement 
+                x:Name="mediaElement"
+                WidthRequest="350" 
+                HeightRequest="235" 
+                Source="embed://videoplayback.mp4"/>
+            <!--Source="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"/>-->
+        
+            <Button
+                x:Name="Play"
+                Text="Play"
+                Clicked="play_Clicked"
+                VerticalOptions="Center"
+                HorizontalOptions="Center" />
+
+            <Button
+                x:Name="Pause"
+                Text="Pause"
+                Clicked="pause_Clicked"
+                HorizontalOptions="Center" />
+
+            <Button
+                x:Name="Stop"
+                Text="Stop"
+                Clicked="stop_Clicked"
+                HorizontalOptions="Center" />
+            
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

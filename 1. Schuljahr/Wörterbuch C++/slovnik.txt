@@ -1,0 +1,12 @@
+autobazar; obchod s pouzitymi automobilmi
+skok ;pohyb, kt. vznika odrazom noh od zeme
+knihar;      odbornik na viazanie knih
+aplikacia; aplikovanie novych metod 
+pero;nastroj na pisanie alebo kreslenie
+programovat;              zostavovat program v pocitaci
+audiencia ;oficialne prijatie a vypocutie u vyznamnej osobnosti
+auto;     dopravny prostriedok
+autobus;       hromadny dopravny prostriedok
+bronz; zliatina medi s cinom
+jablko ; gulovity duzinaty plod jablone
+

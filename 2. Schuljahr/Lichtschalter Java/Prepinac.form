@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Prepinac">
+  <grid id="27dc6" binding="MojPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="17" width="555" height="550"/>
+    </constraints>
+    <properties>
+      <minimumSize width="550" height="350"/>
+      <preferredSize width="550" height="350"/>
+    </properties>
+    <clientProperties>
+      <html.disable class="java.lang.Boolean" value="false"/>
+    </clientProperties>
+    <border type="none"/>
+    <children>
+      <component id="40f39" class="javax.swing.JButton" binding="prepinacButton">
+        <constraints border-constraint="South"/>
+        <properties>
+          <text value="Button"/>
+        </properties>
+      </component>
+      <component id="e6048" class="javax.swing.JLabel" binding="mojText">
+        <constraints border-constraint="North"/>
+        <properties>
+          <preferredSize width="27" height="30"/>
+          <text value="Label"/>
+        </properties>
+      </component>
+      <component id="2ee50" class="javax.swing.JTextField" binding="palindromField">
+        <constraints border-constraint="West"/>
+        <properties>
+          <minimumSize width="200" height="60"/>
+          <preferredSize width="200" height="60"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="22e18" class="javax.swing.JLabel" binding="vystup">
+        <constraints border-constraint="Center"/>
+        <properties>
+          <maximumSize width="300" height="20"/>
+          <minimumSize width="300" height="20"/>
+          <preferredSize width="300" height="20"/>
+          <text value=""/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

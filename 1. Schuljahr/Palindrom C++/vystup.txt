@@ -1,0 +1,37 @@
+	a....Vytvor dva nove a prazdne zasobniky 
+	b... Vyprazdni obsah v oboch zasobnikoch
+	c... Nacitaj novy retazec z klavesnice do prveho zasobnika a vytvor aj druhy zasobnik
+	d... Vypis obsah prveho zasobnika
+	e... Vypis obsah druheho zasobnika
+	f... Urci, ci dany retazec je palindromom
+	x... Ukonci program
+Z akeho menu mam hladat? a
+Zasobniky su prazdne
+Z akeho menu mam hladat? b
+Vyprazdnene 
+Z akeho menu mam hladat? c
+Zadaj vyraz 
+Able was I, ere I saw Elba
+Z akeho menu mam hladat? d
+Obsah prveho zasobnika
+ablewasiereisawelba
+Z akeho menu mam hladat? e
+Obsah druheho zasobnika
+ablewasiereisawelba
+Z akeho menu mam hladat? f
+Zadany vyraz je palindrom
+Z akeho menu mam hladat? b
+Vyprazdnene 
+Z akeho menu mam hladat? c
+Zadaj vyraz 
+Ako, sa dnes mas, a preco?
+Z akeho menu mam hladat? d
+Obsah prveho zasobnika
+akosadnesmasapreco?
+Z akeho menu mam hladat? e
+Obsah druheho zasobnika
+?ocerpasamsendasoka
+Z akeho menu mam hladat? f
+Nie je palindrom
+Z akeho menu mam hladat? x
+Tvoja volba na ukoncenie programu

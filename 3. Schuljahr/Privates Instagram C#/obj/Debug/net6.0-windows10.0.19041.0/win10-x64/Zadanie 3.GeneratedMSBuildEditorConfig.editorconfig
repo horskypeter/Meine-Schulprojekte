@@ -1,0 +1,35 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Zadanie_3
+build_property.ProjectDir = C:\Users\horsk\OneDrive\Počítač\Nový priečinok\Privates Instagram C#\
+
+[C:/Users/horsk/OneDrive/Počítač/Nový priečinok/Privates Instagram C\#/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Zadanie_3.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/horsk/OneDrive/Počítač/Nový priečinok/Privates Instagram C\#/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Zadanie_3.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/horsk/OneDrive/Počítač/Nový priečinok/Privates Instagram C\#/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Zadanie_3.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/horsk/OneDrive/Počítač/Nový priečinok/Privates Instagram C\#/UserProfilePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Zadanie_3.UserProfilePage.xaml
+build_metadata.AdditionalFiles.TargetPath = UserProfilePage.xaml
+build_metadata.AdditionalFiles.RelativePath = UserProfilePage.xaml

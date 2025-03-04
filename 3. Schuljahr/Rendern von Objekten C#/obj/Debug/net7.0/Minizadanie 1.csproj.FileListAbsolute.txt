@@ -1,0 +1,30 @@
+E:\Skola\3. ročník\Programovanie GUI\Zadania GUI\Minizadanie 1 predmety vykreslenie\Minizadanie 1\bin\Debug\net7.0\Minizadanie 1.exe
+E:\Skola\3. ročník\Programovanie GUI\Zadania GUI\Minizadanie 1 predmety vykreslenie\Minizadanie 1\bin\Debug\net7.0\Minizadanie 1.deps.json
+E:\Skola\3. ročník\Programovanie GUI\Zadania GUI\Minizadanie 1 predmety vykreslenie\Minizadanie 1\bin\Debug\net7.0\Minizadanie 1.runtimeconfig.json
+E:\Skola\3. ročník\Programovanie GUI\Zadania GUI\Minizadanie 1 predmety vykreslenie\Minizadanie 1\bin\Debug\net7.0\Minizadanie 1.dll
+E:\Skola\3. ročník\Programovanie GUI\Zadania GUI\Minizadanie 1 predmety vykreslenie\Minizadanie 1\bin\Debug\net7.0\Minizadanie 1.pdb
+E:\Skola\3. ročník\Programovanie GUI\Zadania GUI\Minizadanie 1 predmety vykreslenie\Minizadanie 1\obj\Debug\net7.0\Minizadanie 1.csproj.AssemblyReference.cache
+E:\Skola\3. ročník\Programovanie GUI\Zadania GUI\Minizadanie 1 predmety vykreslenie\Minizadanie 1\obj\Debug\net7.0\Minizadanie 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Skola\3. ročník\Programovanie GUI\Zadania GUI\Minizadanie 1 predmety vykreslenie\Minizadanie 1\obj\Debug\net7.0\Minizadanie 1.AssemblyInfoInputs.cache
+E:\Skola\3. ročník\Programovanie GUI\Zadania GUI\Minizadanie 1 predmety vykreslenie\Minizadanie 1\obj\Debug\net7.0\Minizadanie 1.AssemblyInfo.cs
+E:\Skola\3. ročník\Programovanie GUI\Zadania GUI\Minizadanie 1 predmety vykreslenie\Minizadanie 1\obj\Debug\net7.0\Minizadanie 1.csproj.CoreCompileInputs.cache
+E:\Skola\3. ročník\Programovanie GUI\Zadania GUI\Minizadanie 1 predmety vykreslenie\Minizadanie 1\obj\Debug\net7.0\Minizadanie 1.dll
+E:\Skola\3. ročník\Programovanie GUI\Zadania GUI\Minizadanie 1 predmety vykreslenie\Minizadanie 1\obj\Debug\net7.0\refint\Minizadanie 1.dll
+E:\Skola\3. ročník\Programovanie GUI\Zadania GUI\Minizadanie 1 predmety vykreslenie\Minizadanie 1\obj\Debug\net7.0\Minizadanie 1.pdb
+E:\Skola\3. ročník\Programovanie GUI\Zadania GUI\Minizadanie 1 predmety vykreslenie\Minizadanie 1\obj\Debug\net7.0\Minizadanie 1.genruntimeconfig.cache
+E:\Skola\3. ročník\Programovanie GUI\Zadania GUI\Minizadanie 1 predmety vykreslenie\Minizadanie 1\obj\Debug\net7.0\ref\Minizadanie 1.dll
+C:\Users\horsk\OneDrive\Počítač\Nový priečinok\Vykreslenie objektov\bin\Debug\net7.0\Minizadanie 1.exe
+C:\Users\horsk\OneDrive\Počítač\Nový priečinok\Vykreslenie objektov\bin\Debug\net7.0\Minizadanie 1.deps.json
+C:\Users\horsk\OneDrive\Počítač\Nový priečinok\Vykreslenie objektov\bin\Debug\net7.0\Minizadanie 1.runtimeconfig.json
+C:\Users\horsk\OneDrive\Počítač\Nový priečinok\Vykreslenie objektov\bin\Debug\net7.0\Minizadanie 1.dll
+C:\Users\horsk\OneDrive\Počítač\Nový priečinok\Vykreslenie objektov\bin\Debug\net7.0\Minizadanie 1.pdb
+C:\Users\horsk\OneDrive\Počítač\Nový priečinok\Vykreslenie objektov\obj\Debug\net7.0\Minizadanie 1.csproj.AssemblyReference.cache
+C:\Users\horsk\OneDrive\Počítač\Nový priečinok\Vykreslenie objektov\obj\Debug\net7.0\Minizadanie 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horsk\OneDrive\Počítač\Nový priečinok\Vykreslenie objektov\obj\Debug\net7.0\Minizadanie 1.AssemblyInfoInputs.cache
+C:\Users\horsk\OneDrive\Počítač\Nový priečinok\Vykreslenie objektov\obj\Debug\net7.0\Minizadanie 1.AssemblyInfo.cs
+C:\Users\horsk\OneDrive\Počítač\Nový priečinok\Vykreslenie objektov\obj\Debug\net7.0\Minizadanie 1.csproj.CoreCompileInputs.cache
+C:\Users\horsk\OneDrive\Počítač\Nový priečinok\Vykreslenie objektov\obj\Debug\net7.0\Minizadanie 1.dll
+C:\Users\horsk\OneDrive\Počítač\Nový priečinok\Vykreslenie objektov\obj\Debug\net7.0\refint\Minizadanie 1.dll
+C:\Users\horsk\OneDrive\Počítač\Nový priečinok\Vykreslenie objektov\obj\Debug\net7.0\Minizadanie 1.pdb
+C:\Users\horsk\OneDrive\Počítač\Nový priečinok\Vykreslenie objektov\obj\Debug\net7.0\Minizadanie 1.genruntimeconfig.cache
+C:\Users\horsk\OneDrive\Počítač\Nový priečinok\Vykreslenie objektov\obj\Debug\net7.0\ref\Minizadanie 1.dll

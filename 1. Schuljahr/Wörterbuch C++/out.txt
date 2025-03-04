@@ -1,0 +1,33 @@
+Menu
+1-starting  	 najdi vyznam slova zacinajuceho danymi znakmi
+2-containing 	 najdi vyznam slova obsahujuceho dane znaky
+3-ending 	 najdi vyznam slova konciaceho danymi znakmi
+4-stop 		 ukonci dany program
+
+Z akeho menu mam hladat? 1
+Zadaj znaky ktore su na zaciatku slova a
+slovo:autobazar
+slovo:aplikacia
+slovo:audiencia
+slovo:auto
+slovo:autobus
+Z akeho menu mam hladat? a
+Zadal si hlupost
+Z akeho menu mam hladat? a
+Zadal si hlupost
+Z akeho menu mam hladat? 1
+Zadaj znaky ktore su na zaciatku slova auto
+slovo:autobazar
+slovo:auto
+slovo:autobus
+Z akeho menu mam hladat? 2
+Zadaj znaky ktore sa maju nachadzat v slove auto
+slovo:autobazar
+slovo:auto
+slovo:autobus
+Z akeho menu mam hladat? 3
+Zadaj znaky ktore su na konci slova a
+slovo:aplikacia
+slovo:audiencia
+Z akeho menu mam hladat? 4
+Tvoja volba na ukoncenie programu
