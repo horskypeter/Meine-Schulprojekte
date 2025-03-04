@@ -1,12 +1,17 @@
 👋 Ahoj, som Peter!
+
 🚀 Softvérový vývojár | Programátor | Tech nadšenec
 
 👨‍💻 O mne:
 
 🔹 Programujem v C, C++, C#, Java, Python, SQL
+
 🔹 Milujem prácu s databázami a optimalizáciu výkonu
+
 🔹 Rád objavujem nové technológie a zlepšujem svoje schopnosti
+
 🔹 Verím v clean code a efektívne riešenia problémov
+
 🔹 Neustále sa učím a skúšam nové výzvy 🚀
 
 ### 🔥 Technológie, s ktorými pracujem
@@ -21,13 +26,6 @@
 
 ### 📊 GitHub štatistiky
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=horskypeter&layout=compact&theme=radical)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=horskypeter&layout=compact&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=horskypeter&show_icons=true&theme=radical)
-
-
 
 ---
 
