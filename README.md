@@ -4,9 +4,13 @@
 👨‍💻 Über mich:
 
 🔹 Ich programmiere in C, C++, C#, Java, Python, SQL
+
 🔹 Ich liebe die Arbeit mit Datenbanken und die Optimierung der Leistung
+
 🔹 Ich entdecke gerne neue Technologien und verbessere meine Fähigkeiten
+
 🔹 Ich glaube an Clean Code und effiziente Problemlösungen
+
 🔹 Ich lerne ständig dazu und stelle mich gerne neuen Herausforderungen 🚀
 
 ### 🔥 Technologien, mit denen ich arbeite
