@@ -13,6 +13,8 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### 📊 GitHub štatistiky
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=horskypeter&layout=compact&theme=radical)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=horskypeter&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=horskypeter&theme=radical)
